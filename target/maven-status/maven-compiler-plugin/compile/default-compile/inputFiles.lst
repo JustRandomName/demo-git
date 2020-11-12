@@ -1,0 +1,12 @@
+/home/nikita/dbLabs/demo-git/src/main/java/com/example/demogit/dto/InformationDto.java
+/home/nikita/dbLabs/demo-git/src/main/java/com/example/demogit/repo/UserRepository.java
+/home/nikita/dbLabs/demo-git/src/main/java/com/example/demogit/model/User.java
+/home/nikita/dbLabs/demo-git/src/main/java/com/example/demogit/service/UserService.java
+/home/nikita/dbLabs/demo-git/src/main/java/com/example/demogit/dto/UserDto.java
+/home/nikita/dbLabs/demo-git/src/main/java/com/example/demogit/model/Information.java
+/home/nikita/dbLabs/demo-git/src/main/java/com/example/demogit/controller/UserController.java
+/home/nikita/dbLabs/demo-git/src/main/java/com/example/demogit/model/Car.java
+/home/nikita/dbLabs/demo-git/src/main/java/com/example/demogit/dto/HelloDto.java
+/home/nikita/dbLabs/demo-git/src/main/java/com/example/demogit/service/HelloService.java
+/home/nikita/dbLabs/demo-git/src/main/java/com/example/demogit/DemoGitApplication.java
+/home/nikita/dbLabs/demo-git/src/main/java/com/example/demogit/controller/HelloController.java
